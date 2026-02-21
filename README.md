@@ -1,12 +1,20 @@
-# academic-research-archive
+# Research Portfolio: Universal Hyperbolic Geometry
 
-My Research Portfolio
+This repository serves as a public record of my research reports. Each report is formally archived on Zenodo to ensure long-term accessibility and citation integrity.
 
-This repository contains a collection of my research reports. Official archived versions with permanent DOIs can be found on Zenodo.
+---
 
-Report Title                                                         DOI                               Link 
+## Published Reports
 
-The Quadrea of a Projective Quadrangle Theorem in                    10.5281/zenodo.17081213           https://doi.org/10.5281/zenodo.17081213
-Universal Hyperbolic Geometry: Using Archimedes' Function and 
-Deriving Projective Pythagoras in Degenerate Quadrangles.
+| Report Title | DOI | Archive Link |
+| :--- | :--- | :--- |
+| **The Quadrea of a Projective Quadrangle Theorem in Universal Hyperbolic Geometry:** Using Archimedes' Function and Deriving Projective Pythagoras in Degenerate Quadrangles | `10.5281/zenodo.17081213` | [View on Zenodo](https://doi.org/10.5281/zenodo.17081213) |
+| **Title of Your Second Report** | `10.5281/zenodo.XXXXXXX` | [View on Zenodo](https://doi.org/10.5281/zenodo.XXXXXXX) |
 
+---
+
+## How to Cite
+If you use any of the findings or theorems presented here, please use the DOI links provided in the table above to generate a formal citation. 
+
+For the Projective Quadrangle Theorem, the suggested citation format is:
+> *Your Name (2026). The Quadrea of a Projective Quadrangle Theorem in Universal Hyperbolic Geometry. Zenodo. https://doi.org/10.5281/zenodo.17081213*
