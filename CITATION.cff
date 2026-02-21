@@ -1,0 +1,10 @@
+cff-version: 1.2.0
+message: "If you use this research, please cite it as below."
+authors:
+  - family-names: "Coady"
+    given-names: "John D."
+title: "The Quadrea of a Projective Quadrangle Theorem in Universal Hyperbolic Geometry: Using Archimedes' Function and Deriving Projective Pythagoras in Degenerate Quadrangles."
+version: 1.0.0
+doi: 10.5281/zenodo.17081213
+date-released: 2026-02-21
+url: "https://doi.org/10.5281/zenodo.17247907"
